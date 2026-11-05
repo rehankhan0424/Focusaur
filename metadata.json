@@ -1,0 +1,6 @@
+{
+  "name": "Focusaur - Mindful Focus & Cognitive Training",
+  "description": "Science-backed cognitive training platform with soothing natural aesthetics, 8 focus benchmarks, progress analytics, and personalized sign in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
