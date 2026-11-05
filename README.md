@@ -2,7 +2,7 @@
 
 Focusaur is a web app for practicing focus and attention through short cognitive games, with progress tracking and stats.
 
-**Live demo:** <your-live-url>
+**Live demo:** <https://focusaur.vercel.app/>
 
 ## Features
 
