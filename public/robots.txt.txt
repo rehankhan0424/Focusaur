@@ -1,0 +1,4 @@
+   User-agent: *
+   Allow: /
+
+   Sitemap: https://focusaur-mindful-focus.vercel.app//sitemap.xml
